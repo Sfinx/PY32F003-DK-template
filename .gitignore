@@ -1,0 +1,13 @@
+*.o
+*.map
+*.lst
+*.elf
+*.hex
+*.bin
+.dep
+JLink.log
+tty
+node_modules
+package-lock.json
+.gdb_history
+*.crypted
