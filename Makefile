@@ -1,6 +1,4 @@
 
-# STM32L162VDT6
-
 DFUUTIL	    = /usr/local/bin/dfu-util
 JLINKDIR    = ../jlink
 JLINKSPEED  = 5000
